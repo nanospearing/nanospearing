@@ -6,12 +6,13 @@ Hi there! Here's some stuff about me
 
 - Audio and Video recording
   - Live audio recording for multiple school productions
-- Decent Photography Skills
-- I have made many Discord Bots in my time
+- Decent photography skills
+- Assisting Sysadmins with policy issues and bypasses.
+- Using and managing Linux servers
 
 ## My Favorite Things
 
-- JS, Bash, and Python
+- NodeJS and Bash Scripting
 - VSCode
 - Cats
 - Minecraft and Portal
