@@ -7,8 +7,9 @@ Hi there! Here's some stuff about me
 - Audio and Video recording
   - Live audio recording for multiple school productions
 - Decent photography skills
-- Assisting Sysadmins with policy issues and bypasses.
+- Assisting Sysadmins with policy issues.
 - Using and managing Linux servers
+- Licensed FAA Part 107 Remote Pilot
 
 ## My Favorite Things
 
