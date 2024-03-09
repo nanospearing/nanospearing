@@ -1,6 +1,6 @@
 ### Nano Spearing
 
-(Due note that I constantly purge this account of content (yes I know this is bad) but it is what it is...)
+(Do note that I constantly purge this account of content (yes I know this is bad) but it is what it is...)
 
 Hi there! Here's some stuff about me
 
