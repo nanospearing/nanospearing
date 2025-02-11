@@ -6,8 +6,9 @@ Hi there! Here's some stuff about me
 
 ## Experiences/Training
 
-- Audio and Video recording
-  - Live audio recording for multiple school productions
+- Customer Service Leader/Front End Supervisor and Cashier at Food Lion
+- Audio and Video production
+  - Audio enginier for multiple school productions
 - Decent photography skills
 - Assisting Sysadmins with policy issues.
 - Using and managing Linux servers
